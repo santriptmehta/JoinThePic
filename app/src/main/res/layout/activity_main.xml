@@ -14,12 +14,13 @@
         android:textColor="@color/white"
         android:layout_marginTop="10dp"
         android:layout_marginBottom="10dp"
+        android:textAlignment="center"
         android:textSize="28sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintBottom_toTopOf="@+id/grid"
-        android:text="Select any pic or from gallary"/>
+        android:text="Select any pic or from gallary to solve puzzle"/>
     <GridView
         android:id="@+id/grid"
         android:layout_margin="8dp"
