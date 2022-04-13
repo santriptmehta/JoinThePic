@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/OpenSource/JoinThePic/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.169" />
+        <entry key="..\:/OpenSource/JoinThePic/app/src/main/res/drawable/ic_launcher_background.xml" value="0.169" />
+        <entry key="..\:/OpenSource/JoinThePic/app/src/main/res/drawable/logo.xml" value="0.169" />
         <entry key="..\:/OpenSource/JoinThePic/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/OpenSource/JoinThePic/app/src/main/res/layout/activity_puzzle.xml" value="0.17603850050658562" />
         <entry key="..\:/OpenSource/JoinThePic/app/src/main/res/layout/grid_element.xml" value="0.17603850050658562" />
