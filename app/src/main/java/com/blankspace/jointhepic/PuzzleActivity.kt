@@ -1,10 +1,7 @@
 package com.blankspace.jointhepic
-import android.content.Intent
-import android.content.res.AssetManager
 import android.graphics.*
 import android.graphics.BitmapFactory.Options
 import android.graphics.drawable.BitmapDrawable
-import android.graphics.drawable.Drawable
 import android.media.ExifInterface
 import android.net.Uri
 import android.os.Bundle
@@ -13,8 +10,9 @@ import android.widget.RelativeLayout
 import android.widget.Toast
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
+import com.blankspace.jointhepic.ui.PuzzlePiece
+import com.blankspace.jointhepic.ui.TouchListener
 import java.io.IOException
-import java.io.InputStream
 import java.util.*
 import kotlin.collections.ArrayList
 

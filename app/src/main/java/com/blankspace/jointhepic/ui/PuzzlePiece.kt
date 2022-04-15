@@ -1,4 +1,4 @@
-package com.blankspace.jointhepic
+package com.blankspace.jointhepic.ui
 import android.content.Context
 import androidx.appcompat.widget.AppCompatImageView
 

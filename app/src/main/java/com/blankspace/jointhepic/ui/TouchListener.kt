@@ -1,9 +1,11 @@
-package com.blankspace.jointhepic
+
+package com.blankspace.jointhepic.ui
 import android.view.MotionEvent
 import android.view.View
 import android.view.View.OnTouchListener
 import android.view.ViewGroup
 import android.widget.RelativeLayout
+import com.blankspace.jointhepic.PuzzleActivity
 
 
 class TouchListener(private val activity: PuzzleActivity) : OnTouchListener {

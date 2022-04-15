@@ -1,4 +1,4 @@
-package com.blankspace.jointhepic
+package com.blankspace.jointhepic.Adapter
 
 import android.content.Context
 import android.content.res.AssetManager
@@ -11,6 +11,7 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.BaseAdapter
 import android.widget.ImageView
+import com.blankspace.jointhepic.R
 import java.io.IOException
 
 
